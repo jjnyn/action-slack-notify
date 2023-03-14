@@ -112,10 +112,10 @@ func main() {
 					},
 				}
 				mainFields = append(field, mainFields...)
-			case "actions url":
+			case "repository url":
 				field := []Field{
 					{
-						Title: "Actions URL",
+						Title: "Repository URL",
 						Value: "<" + os.Getenv("GITHUB_SERVER_URL") + "/" + os.Getenv("GITHUB_REPOSITORY") + "/commit/" + os.Getenv("GITHUB_SHA") + "/checks|" + os.Getenv("GITHUB_WORKFLOW") + ">",
 						Short: true,
 					},

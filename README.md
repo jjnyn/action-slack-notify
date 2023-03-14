@@ -119,5 +119,4 @@ Source: [technosophos/slack-notify](https://github.com/technosophos/slack-notify
 ## Does this interest you?
 
 <a href="https://rtcamp.com/"><img src="https://rtcamp.com/wp-content/uploads/sites/2/2019/04/github-banner@2x.png" alt="Join us at rtCamp, we specialize in providing high performance enterprise WordPress solutions"></a>
-# action-slack-notify
-# action-slack-notify
+
